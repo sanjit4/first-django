@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -169,7 +169,7 @@
       <workItem from="1550843360836" duration="1684000" />
       <workItem from="1550845134350" duration="529000" />
       <workItem from="1550848252287" duration="751000" />
-      <workItem from="1550850024286" duration="1010000" />
+      <workItem from="1550850024286" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="             ,">
       <created>1550850272758</created>
@@ -192,11 +192,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550850879715</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="third">
+      <created>1550851076932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550851076932</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fourth">
+      <created>1550851233354</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550851233354</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26872000" />
+    <option name="totallyTimeSpent" value="27194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -205,6 +219,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08737864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -230,7 +245,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="             ," />
-    <option name="LAST_COMMIT_MESSAGE" value="             ," />
+    <MESSAGE value="third" />
+    <MESSAGE value="fourth" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -272,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="323">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
